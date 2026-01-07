@@ -31,7 +31,7 @@ function App() {
         
   "overrides": {
     
-    "mainSeriesProperties.candleStyle.barSpacing": 3, // 
+    "mainSeriesProperties.candleStyle.barSpacing": 4, // 
     "paneProperties.topMargin": 10,
     "paneProperties.bottomMargin": 10,
   },
