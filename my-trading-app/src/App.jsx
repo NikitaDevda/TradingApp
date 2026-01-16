@@ -2,7 +2,7 @@
 
 // import React, { useState, useEffect } from 'react';
 
-// function App() {
+// function App() { 
 //   const [page, setPage] = useState('terminal');
 //   const [symbol, setSymbol] = useState("BSE:RELIANCE");
 //   const [searchInput, setSearchInput] = useState("");
